@@ -1,0 +1,13 @@
+ui.card>.content>.header:not(.ui), .ui.cards>.card>.content>.header:not(.ui) {
+  font-weight: 700;
+  font-size: 1.28571429em;
+  margin-top: -.21425em;
+  line-height: 1.285714em;
+  height: 50px;
+  overflow: hidden;
+}
+
+
+#shadow {
+  box-shadow: 0px 4px 7px 0px #d6d3d3;
+}

@@ -1,0 +1,2 @@
+export const PRODUCT='PRODUCT'
+export const  SELECT_PRODUCT='SELECT_PRODUCT'
